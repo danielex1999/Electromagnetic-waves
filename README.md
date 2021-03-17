@@ -6,6 +6,7 @@ corrientes eléctricas, siendo más fuertes cuanto más intensa sea la corriente
 están en todas partes en el medio en que vivimos. Además, estos artefactos que a su vez ayudan a los seres humanos dan o generan grandes campos magnéticos que tiene un gran
 riesgo a la salud dependiendo lo cual cerca estés de ellos. Actualmente, lo que buscan las empresas es brindar un producto que cumpla con los requisitos correctos para no 
 afectar a la persona en problemas de la salud con las ondas que generan los artefactos electrónicos._
+![menu](https://user-images.githubusercontent.com/69739890/111547710-90668e00-8747-11eb-8765-cccfb90ec8bd.PNG)
 
 ## Descripción del Problema ❓
 
