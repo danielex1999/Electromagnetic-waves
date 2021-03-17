@@ -29,6 +29,11 @@ la salud._
 
 * NetBeans 
 * Xampp
+
+## Líbreria Usada 📕
+
+* MySQL Connector (Version 5.1.23)
+
 ## DESARROLLO DE LA SOLUCIÓN 🔨
 
 ### MENU 💻
