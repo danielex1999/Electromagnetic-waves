@@ -9,7 +9,7 @@ afectar a la persona en problemas de la salud con las ondas que generan los arte
 ![menu](https://user-images.githubusercontent.com/69739890/111547710-90668e00-8747-11eb-8765-cccfb90ec8bd.PNG)
 
 ## Descripción del Problema ❓
-
+ 
 _La escala de personas que sufren o sienten problemas por estar cerca de campos magnéticos se han incrementado debido a la radiación que se genera producto a la gran
 actividad humana que le dan. En el organismo se producen corrientes eléctricas minúsculas debidas a las reacciones químicas de las funciones corporales normales, incluso
 en ausencia de campos eléctricos externos. Por ejemplo, los nervios emiten señales mediante la transmisión de impulsos eléctricos. En la mayoría de las reacciones 
